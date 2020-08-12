@@ -1,5 +1,4 @@
 # login_boilerplate
-not a great boilerplate, but at least I understand what to replace
 
 ---------------------------------------------------------------------------
 This is the exact same boilerplate I used in my react project, Biscord.
